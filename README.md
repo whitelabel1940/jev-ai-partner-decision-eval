@@ -4,6 +4,7 @@
 
 - **本文（技術版）**：[index.html](index.html)（GitHub Pages: https://whitelabel1940.github.io/jev-ai-partner-decision-eval/ ）
 - **一般向けの解説記事（note）**：[AIパートナーの「判断」にJevは使えるか？ ―― GPT-6・Geminiと256問で比べた結果](https://note.com/whitelabel1940/n/ndf19a5059f65)
+- **続編（技術版）**：[Decision Modelは判断を控えられるか：7つのDecision Modelによるholdout-exp-2横断評価](https://whitelabel1940.github.io/decision-model-comparison-v1/)
 
 ## 概要
 
